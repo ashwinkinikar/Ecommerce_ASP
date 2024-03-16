@@ -1,5 +1,5 @@
 # E-Commerce-Website
 
-Project "E-Commerce Website" on ASP.NET MVC.
+A Project on "E-Commerce Website" on ASP.NET MVC.
 
 Thank you
