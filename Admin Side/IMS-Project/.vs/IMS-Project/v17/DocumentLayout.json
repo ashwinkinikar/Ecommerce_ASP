@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\E-Commerce-Website-master\\Admin Side\\IMS-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|e:\\e-commerce-website-master\\admin side\\ims-project\\ims-project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|solutionrelative:ims-project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|e:\\e-commerce-website-master\\admin side\\ims-project\\ims-project\\controllers\\admin_logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|solutionrelative:ims-project\\controllers\\admin_logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|e:\\e-commerce-website-master\\admin side\\ims-project\\ims-project\\properties\\publishprofiles\\ims-project1 - web deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|solutionrelative:ims-project\\properties\\publishprofiles\\ims-project1 - web deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Admin Side\\IMS-Project\\IMS-Project\\Web.config",
+              "RelativeDocumentMoniker": "IMS-Project\\Web.config",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Admin Side\\IMS-Project\\IMS-Project\\Web.config",
+              "RelativeToolTip": "IMS-Project\\Web.config",
+              "ViewState": "AQIAACoAAAAAAAAAAAAhwDoAAADtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-16T09:17:21.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMS-Project1 - Web Deploy.pubxml",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Admin Side\\IMS-Project\\IMS-Project\\Properties\\PublishProfiles\\IMS-Project1 - Web Deploy.pubxml",
+              "RelativeDocumentMoniker": "IMS-Project\\Properties\\PublishProfiles\\IMS-Project1 - Web Deploy.pubxml",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Admin Side\\IMS-Project\\IMS-Project\\Properties\\PublishProfiles\\IMS-Project1 - Web Deploy.pubxml",
+              "RelativeToolTip": "IMS-Project\\Properties\\PublishProfiles\\IMS-Project1 - Web Deploy.pubxml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAArwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-03-16T09:16:21.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admin_LoginController.cs",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\admin_LoginController.cs",
+              "RelativeDocumentMoniker": "IMS-Project\\Controllers\\admin_LoginController.cs",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\admin_LoginController.cs",
+              "RelativeToolTip": "IMS-Project\\Controllers\\admin_LoginController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T09:15:58.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

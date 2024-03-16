@@ -1,0 +1,58 @@
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\IMS-Project.dll.config
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\IMS-Project.dll
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\IMS-Project.pdb
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\Antlr3.Runtime.dll
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\EntityFramework.dll
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\Newtonsoft.Json.dll
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\System.Web.Helpers.dll
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\System.Web.Mvc.dll
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\System.Web.Optimization.dll
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\System.Web.Razor.dll
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\System.Web.WebPages.dll
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\WebGrease.dll
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\EntityFramework.xml
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\System.Web.Helpers.xml
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\System.Web.Mvc.xml
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\System.Web.Optimization.xml
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\System.Web.Razor.xml
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\System.Web.WebPages.xml
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\Antlr3.Runtime.pdb
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\bin\Newtonsoft.Json.xml
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\obj\Debug\IMS-Project.dll
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\obj\Debug\IMS-Project.pdb
+C:\Users\Zulfiqar Akram\Documents\Visual Studio 2013\Projects\IMS-Project\IMS-Project\obj\Debug\IMS-Project.csprojResolveAssemblyReference.cache
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\IMS-Project.dll.config
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\IMS-Project.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\IMS-Project.pdb
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\Antlr3.Runtime.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\EntityFramework.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\Microsoft.Web.Infrastructure.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\Newtonsoft.Json.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Helpers.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Mvc.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Optimization.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Razor.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Deployment.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Razor.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\WebGrease.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\EntityFramework.xml
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Helpers.xml
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Mvc.xml
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Optimization.xml
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Razor.xml
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.xml
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Deployment.xml
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Razor.xml
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\Antlr3.Runtime.pdb
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\Newtonsoft.Json.xml
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\obj\Debug\IMS-Project.csproj.AssemblyReference.cache
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\obj\Debug\IMS-Project.csproj.CoreCompileInputs.cache
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\obj\Debug\IMS-Proj.00C79853.Up2Date
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\obj\Debug\IMS-Project.dll
+E:\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\obj\Debug\IMS-Project.pdb

@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|e:\\e-commerce-website-master\\client side\\clientside-kahreedo.pk\\kahreedo\\controllers\\mycartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\controllers\\mycartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\controllers\\loaddatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\controllers\\loaddatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\controllers\\thankyoucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\controllers\\thankyoucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|e:\\e-commerce-website-master\\client side\\clientside-kahreedo.pk\\kahreedo\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\project_readme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\project_readme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\classdiagram1.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\classdiagram1.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\models\\topsoldproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\models\\topsoldproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\models\\tempshpdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\models\\tempshpdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\models\\khareedodatamodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\models\\khareedodatamodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyCartController.cs",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\MyCartController.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\Controllers\\MyCartController.cs",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\MyCartController.cs",
+              "RelativeToolTip": "Kahreedo\\Controllers\\MyCartController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:20:17.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WishListController.cs",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\WishListController.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\Controllers\\WishListController.cs",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\WishListController.cs",
+              "RelativeToolTip": "Kahreedo\\Controllers\\WishListController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:35:01.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Kahreedo\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:31:19.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Kahreedo\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T09:26:30.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckOutController.cs",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\CheckOutController.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\Controllers\\CheckOutController.cs",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\CheckOutController.cs",
+              "RelativeToolTip": "Kahreedo\\Controllers\\CheckOutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:25:31.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Kahreedo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:25:47.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadDataController.cs",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\LoadDataController.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\Controllers\\LoadDataController.cs",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\LoadDataController.cs",
+              "RelativeToolTip": "Kahreedo\\Controllers\\LoadDataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:26:02.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThankYouController.cs",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\ThankYouController.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\Controllers\\ThankYouController.cs",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\ThankYouController.cs",
+              "RelativeToolTip": "Kahreedo\\Controllers\\ThankYouController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:34:58.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\App_Start\\BundleConfig.cs",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Kahreedo\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:35:37.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Kahreedo\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:35:53.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\App_Start\\FilterConfig.cs",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "Kahreedo\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:35:50.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Project_Readme.html",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Project_Readme.html",
+              "RelativeDocumentMoniker": "Kahreedo\\Project_Readme.html",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Project_Readme.html",
+              "RelativeToolTip": "Kahreedo\\Project_Readme.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-16T10:23:21.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Kahreedo\\ClassDiagram1.cd",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\ClassDiagram1.cd",
+              "RelativeToolTip": "Kahreedo\\ClassDiagram1.cd",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-03-16T10:23:01.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TopSoldProduct.cs",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Models\\TopSoldProduct.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\Models\\TopSoldProduct.cs",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Models\\TopSoldProduct.cs",
+              "RelativeToolTip": "Kahreedo\\Models\\TopSoldProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:22:28.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TempShpData.cs",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Models\\TempShpData.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\Models\\TempShpData.cs",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Models\\TempShpData.cs",
+              "RelativeToolTip": "Kahreedo\\Models\\TempShpData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:22:19.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KhareedoDataModel.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Models\\KhareedoDataModel.edmx",
+              "RelativeDocumentMoniker": "Kahreedo\\Models\\KhareedoDataModel.edmx",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Models\\KhareedoDataModel.edmx [Diagram1]*",
+              "RelativeToolTip": "Kahreedo\\Models\\KhareedoDataModel.edmx [Diagram1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-16T10:21:05.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Web.config",
+              "RelativeDocumentMoniker": "Kahreedo\\Web.config",
+              "ToolTip": "E:\\E-Commerce-Website-master\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Web.config",
+              "RelativeToolTip": "Kahreedo\\Web.config",
+              "ViewState": "AQIAACsAAAAAAAAAAAApwDwAAAATAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-16T06:47:51.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
